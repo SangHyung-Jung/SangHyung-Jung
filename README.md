@@ -25,6 +25,10 @@ Natural Language Processsing, Data Engineering, Deep Learning, Financial Enginee
 - 온라인 리뷰 분석을 통한 상품 평가 기준 추출: LDA 및 k-최근접 이웃 접근법을 활용하여. 이지현, 정상형, 김준호, 민은주, 여운영, & 김종우. (2020). 지능정보연구, 26(1), 97-117.
 - Predicting stock prices based on online news content and technical indicators by combinatorial analysis using CNN and LSTM with self-attention (S.H. Jung, G.Y. Koo, D.S. Kim, J.W. Kim.) (2020). APJIS. 개재 예정
 
+### ⚡ Tools
+
+- Python
+- SQL
 
 
 
