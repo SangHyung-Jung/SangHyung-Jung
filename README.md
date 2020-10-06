@@ -30,6 +30,8 @@ Natural Language Processsing, Data Engineering, Deep Learning, Financial Enginee
 - Python
 - SQL
 
+### 😄 Contact
+cookierhkwk@naver.com
 
 
 <!--
